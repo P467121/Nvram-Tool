@@ -30,10 +30,6 @@ Clone or download the repository.
 
 Install the required dependencies using pip:
 
-```bash
-pip install -r requirements.txt
-```
-
 Run the script using Python:
 
 ```bash
@@ -45,7 +41,7 @@ python main.py
 If you prefer to create a standalone executable, you can use PyInstaller. Run the following command in your terminal:
 
 ```bash
-pyinstaller --onefile main.py
+pyinstaller .spec file
 ```
 
 This will generate an executable file in the `dist` directory.
