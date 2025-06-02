@@ -1,4 +1,4 @@
-```
+
 # Auto-Screw-In BIOS Settings Tool 🔧💻
 
 This is a tool designed to help automate the process of configuring BIOS settings. It allows users to modify settings, export only the changed configurations, and import them into another system. However, please note that some changes may cause issues such as failure to boot. If this happens, a **CMOS reset** is typically the fix.
@@ -19,9 +19,8 @@ To run the source code version of this project, you'll need to install the follo
 
 You can install them via pip:
 
-```bash
 pip install customtkinter pyinstaller
-```
+
 
 ## Usage 🛠️
 
@@ -62,8 +61,3 @@ The auto configuration settings can be changed or added directly in the source c
 You can reset the CMOS either by using the reset jumper on your motherboard or by removing and reinserting the CMOS battery. 🔋
 
 **Exported Configuration:** Only the settings that have been changed will be exported. These can be imported as regular BIOS configuration files on another machine.
-
-## License 📝
-
-This project is licensed under the MIT License – see the LICENSE file for details.
-```
