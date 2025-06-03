@@ -1,4 +1,5 @@
-#I DO NOT TAKE RESPONSIBILITY IF ANYTHING HAPPENS TO YOUR PC!!!
+##I DO NOT TAKE RESPONSIBILITY IF ANYTHING HAPPENS TO YOUR PC!!!.
+
 it is made to automate and make this process easier, not all checkboxes work, but you can easily add more to them
 
 
