@@ -33,7 +33,7 @@ Install the required dependencies using pip:
 Run the script using Python:
 
 ```bash
-python main.py
+python NvramView.py
 ```
 
 ### Building an Executable
