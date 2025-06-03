@@ -1,11 +1,11 @@
-##I DO NOT TAKE RESPONSIBILITY IF ANYTHING HAPPENS TO YOUR PC!!!.
-
-it is made to automate and make this process easier, not all checkboxes work, but you can easily add more to them
-
-
 # Auto-Scewin BIOS Settings Tool 🔧💻
 
 This is a tool designed to help automate the process of configuring BIOS settings. It allows users to modify settings, export only the changed configurations, and import them into another system. However, please note that some changes may cause issues such as failure to boot. If this happens, a **CMOS reset** is typically the fix.
+
+## I DO NOT TAKE RESPONSIBILITY IF ANYTHING HAPPENS TO YOUR PC!!!.
+
+it is made to automate and make this process easier, not all checkboxes work, but you can easily add more to them
+
 
 ## Features ✨
 
